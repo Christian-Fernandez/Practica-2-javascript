@@ -25,7 +25,7 @@ if(mediaJuan>mediaMiguel && mediaJuan>mediaMaria){
 }else if(mediaMaria>mediaJuan && mediaMaria>mediaMiguel){
     console.log("Equipo ganador es el de Maria, con una media de: " + mediaMaria);
 }else{
-    console.log("Es un empate, con una media de: " + mediaMiguel);
+    console.log("Es un empate");
 }
 
 
